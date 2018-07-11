@@ -1,4 +1,0 @@
-# Installing JDV
-
-asddasdasd
-
